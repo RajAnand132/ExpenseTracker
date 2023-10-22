@@ -98,7 +98,7 @@ http://localhost:8080/swagger-ui/index.html#/
 
 **Public Address**
 ```
-http://3.111.246.35:8080/swagger-ui/index.html#/
+http://13.235.114.20:8080/swagger-ui/index.html#/
 ```
 
 ## Contact Information
